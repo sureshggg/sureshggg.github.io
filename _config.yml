@@ -1,0 +1,12 @@
+# Site settings
+title: Suresh G 
+email: sureshggg@gmail.com 
+description: "I am the developer. Fan of Breaking Bad, Friends,F1(#teamlh)."
+baseurl: ""
+url: "http://sureshg.in"
+twitter_username: sureshggg 
+github_username: sureshggg 
+
+# Build settings
+markdown: kramdown
+permalink: pretty
